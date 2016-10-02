@@ -52,5 +52,19 @@
       }
    },
    "release_status" : "unstable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/imago-storm/Markdown-TOC/issues"
+      },
+      "homepage" : "https://github.com/imago-storm/Markdown-TOC",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/imago-storm/Markdown-TOC.git",
+         "web" : "https://github.com/imago-storm/Markdown-TOC"
+      }
+   },
+   "version" : "0.01",
+   "x_contributors" : [
+      "Polina Shubina <925043@gmail.com>"
+   ]
 }

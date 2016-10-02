@@ -83,7 +83,8 @@ sub _header {
             text => $text,
             anchor => $anchor,
             order_formatted => $order_number,
-            order => $full_order
+            order => $full_order,
+            level => $level,
         );
     }
     else {

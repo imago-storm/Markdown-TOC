@@ -49,6 +49,7 @@ my $partial_handler = sub {
     is $param{text}, 'header', 'Text checked';
     is $param{anchor}, 'anchor', 'Anchor checked';
     is $param{order_formatted}, 'order', 'Order checked';
+    is $param{level}, 2, 'Level checked';
     $handler_called = 1;
 };
 
