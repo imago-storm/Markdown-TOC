@@ -64,6 +64,7 @@
       }
    },
    "version" : "0.01",
+   "x_authority" : "cpan:IMAGO",
    "x_contributors" : [
       "Polina Shubina <925043@gmail.com>"
    ]
