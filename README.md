@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/imago-storm/Markdown-TOC.svg?branch=master)](https://travis-ci.org/imago-storm/Markdown-TOC)
 # NAME
 
 Markdown::TOC - Create a table of contents from markdown
